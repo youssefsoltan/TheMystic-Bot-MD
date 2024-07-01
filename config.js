@@ -12,7 +12,6 @@ global.confirmCode = ""
 
 global.owner = [
   ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['50499698072', '💫 Mystic - Collaborator 1 💫', true],
   ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
   ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
@@ -20,7 +19,7 @@ global.owner = [
   ['5212412377467', '💫 Mystic - Collaborator 6 💫', true],
   ['5215517489568', '💫 Mystic - Rey Endymion 💫', false],
   ['59895555511', '💫 Mystic - Collaborator 8 💫', true],
-  ['59177601773', '💫 Mystic - By Alba070503 💫', true],
+  ['59175655964', '💫 Mystic - By Alba070503 💫', true],
   ['393518398856','💫 Mystic - Tester Fabri115💫', true],
   ['593968585283'],
   ['5492266466080'],
@@ -34,7 +33,10 @@ global.owner = [
   ['573183650526'], 
   ['5217441298510'], 
   ['5217294888993'],
-  ['595992611272']
+  ['595992611272'],
+  ['5219992843892'],
+  ['573147616444'], 
+  ['5219991402134']
 ];
 
 global.suittag = ['5219993404349'];
